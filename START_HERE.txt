@@ -1,0 +1,39 @@
+APPROVED REVISED STYLE - SMALLER NOSES, SOFTER FACES
+All 26 images in this ZIP are the new approved style.
+
+CLAYMATION MUSIC VIDEO - 26 IMAGES
+
+Images are numbered 01-26 in story order. Original PNG quality is preserved.
+TIMINGS ARE A DRAFT: scenes 01-25 use 10 seconds each; scene 26 uses the final 3.584 seconds of the 4:13.584 track.
+These are editing placeholders, not verified vocal/lyric timestamps. Adjust cuts and clip lengths against the vocals in your editor.
+Import images by filename in ascending order. Animate each in Grok, then place the clips over the original song.
+
+SCENE ORDER
+01 | 00:00.000 - 00:10.000 | Rainy School Gates 2003
+02 | 00:10.000 - 00:20.000 | Shy Smile Under Shelter
+03 | 00:20.000 - 00:30.000 | Plans By Playing Fields
+04 | 00:30.000 - 00:40.000 | Dreaming Of The Sea
+05 | 00:40.000 - 00:50.000 | Teenage Lakeside Walk
+06 | 00:50.000 - 01:00.000 | Our First Flat
+07 | 01:00.000 - 01:10.000 | Walking Home In Woodley
+08 | 01:10.000 - 01:20.000 | Expecting Our Daughter
+09 | 01:20.000 - 01:30.000 | Welcoming Our Daughter
+10 | 01:30.000 - 01:40.000 | Little Shoes In Hallway
+11 | 01:40.000 - 01:50.000 | Laughter On The Stairs
+12 | 01:50.000 - 02:00.000 | Quiet Morning Together
+13 | 02:00.000 - 02:10.000 | A Hand Across The Sheets
+14 | 02:10.000 - 02:20.000 | Looking Through The Rain
+15 | 02:20.000 - 02:30.000 | Back At Seventeen
+16 | 02:30.000 - 02:40.000 | Family Hallway Embrace
+17 | 02:40.000 - 02:50.000 | Tired Hours At The Table
+18 | 02:50.000 - 03:00.000 | Quiet Distance
+19 | 03:00.000 - 03:10.000 | Making Up Over Tea
+20 | 03:10.000 - 03:20.000 | Blue Dusk Walk Home
+21 | 03:20.000 - 03:30.000 | Summer Memory Together
+22 | 03:30.000 - 03:40.000 | Family Coastal Holiday
+23 | 03:40.000 - 03:50.000 | Building Sandcastles
+24 | 03:50.000 - 04:00.000 | Two Children Sleeping
+25 | 04:00.000 - 04:10.000 | Together After Bedtime
+26 | 04:10.000 - 04:13.584 | Still Holding Hands
+
+GROK PROMPTS: Open ALL_GROK_PROMPTS.txt for all 26 prompts, or the Prompts folder for one text file per image. Each includes a main 10-second prompt and an optional continuation prompt.
